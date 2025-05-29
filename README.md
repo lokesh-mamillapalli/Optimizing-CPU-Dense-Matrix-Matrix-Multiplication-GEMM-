@@ -1,2 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JCCq7F24)
-# GEMM_template
+# GEMM Matrix Multiplication
+
+> **This assignment is part of a leaderboard challenge. The main implementation is in `src/main.cpp`.**
+<br>
+> **All optimization techniques, their purposes, and implementation details are provided in `report.pdf`.**
